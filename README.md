@@ -22,3 +22,9 @@ Web Scraping (E-commerce Products)
     - `pandas`: To store data in a CSV file.
     - `logging`: To handle logging of the scraping process.
     - `csv`: To write data to CSV format.
+
+### Visualization:
+
+### Deployment:
+
+You can access the deployed Web Scraper Program here, [Web Scraper](https://prodigy-sd-05.vercel.app/).
