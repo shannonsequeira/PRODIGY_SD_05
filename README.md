@@ -17,14 +17,21 @@ Web Scraping (E-commerce Products)
 ### Languages and Tools
 - **Python**
   - **Libraries**:
-    - `requests`: To make HTTP requests to the e-commerce website.
-    - `BeautifulSoup`: To parse HTML and extract data.
-    - `pandas`: To store data in a CSV file.
-    - `logging`: To handle logging of the scraping process.
-    - `csv`: To write data to CSV format.
+    - `requests`: HTTP library for making requests to the e-commerce website.
+    - `BeautifulSoup`: Python library for parsing HTML and XML documents.
+    - `pandas`: Data analysis library to store scraped data in a CSV file.
+    - `logging`: Module for logging messages to track scraping progress and errors.
+    - `csv`: Module for reading and writing CSV files in Python.
+- **HTML**: Used to structure the generated `index.html` file for displaying scraped data.
+- **CSS**: Styling language used for customizing the appearance of the HTML table in `styles.css`.
+- **Bootstrap**: Front-end framework for responsive and styled components, used via CDN in `index.html`.
 
 ### Visualization:
 
+![Visualization 2](images/web_scraped(1).png)
+
+![Visualization 2](images/web_scraped(2).png)
+
 ### Deployment:
 
-You can access the deployed Web Scraper Program here, [Web Scraper](https://prodigy-sd-05.vercel.app/).
+You can access the deployed Web Scraper Program here, [Web Scraper](https://prodigy-sd-05-eta.vercel.app/).
